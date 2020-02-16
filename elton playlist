@@ -151,8 +151,10 @@ https://api.new.livestream.com/accounts/27754751/events/8377002/live.m3u8
 https://streaming.viewmedia.tv/viewsatstream35/viewsatstream35.smil/chunklist.m3u8
 #EXTINF:-1,emmanuel tv
 https://5d846bfda90fc.streamlock.net%3a83/galaxytv_lagos/galaxy/chunklist.m3u8
-#EXTINF:-1,africa cinema
-https://stream.ecable.tv/africancine/tracks-v3a1/mono.m3u8
+#EXTINF:-1,STAR GOLD
+http://skdn.redi-vo.com/iptv/ch1704?code=103131497823984&key=40708
+
+
 
 
 
