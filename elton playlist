@@ -87,6 +87,8 @@ http://ms-azure-video.gslb.startimestv.com/live/ST_ADEPA_1002_250_320x240_212294
 Http://ms-azure-video.gslb.startimestv.com/live/ST_Soul_946_500_480x360_195166/playlist.m3u8 
 #EXTINF:-1,MTV HITS
 http://185.176.117.242/live/eds/MTV_Hits/HLS_encr/MTV_Hits.m3u8
+#EXTINF:-1,MTV BASE
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:1,love nature
 http://ms-azure-video.gslb.startimestv.com/live/LOVE_NATURE_1164_500_480x360_662498/playlist.m3u8
 #EXTINF:-1,STARTV
