@@ -142,25 +142,27 @@ http://1002631743.rsc.cdn77.org/1002631743/index.m3u8
 #EXTINF:-1,SKY SPORTS FOOTBALL HD
 http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
 #EXTINF:-1,SKY SPORTS PREMIER LEAGUE HD
-http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
+Http://217.23.0.160:44560/2e57e37c/ch937?code=103131497823984&country=TZ&token=180e0310&key=94d407d1
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE SD
+http://95.170.215.120:80/hls/m3u8/Sky-Sports-3HD.m3u8
 #EXTINF:-1,SKY SPORTS MAIN EVENT HD
 http://95.170.215.120:80/hls/m3u8/Sky-S-main-even.m3u8
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
+#EXTINF:-1,SKY SPORTS CRICKET
+http://95.170.215.120/hls/m3u8/Sky-Sports-5HD.m3u8
+#EXTINF:-1,SKY SPORTS ACTION 
+http://95.170.215.120:80/hls/m3u8/Sky-Sport-action.m3u8
+#EXTINF:-1,SKY CANAL SPORTS
+http://190.2.158.24:60186/2e57e37c/ch202?code=103131497823984&country=TZ&token=180e0310&key=94a307ce
 #EXTINF:-1,HBO HD
 https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
 #EXTINF:-1,STAR GOLD
 http://skdn.redi-vo.com/iptv/ch1704?code=103131497823984&key=40708
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
+#EXTINF:-1,STAR PLUS
+http://skdn.redi-vo.com/iptv/ch1706?code=103131497823984&key=41959
+#EXTINF:-1,COLORS HD
+http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49779
+#EXTINF:-1,ZEE CINEMA
+http://skdn.redi-vo.com/iptv/ch1708?code=103131497823984&key=14797
 #EXTINF:-1,
 
 #EXTINF:-1,
