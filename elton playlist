@@ -169,10 +169,10 @@ https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
 #EXTINF:-1,HBO FAMILY
 https://www.livedoomovie.com/02_HBOFamily_720p/chunklist.m3u8
-#EXTINF:-1,
-
-#EXTINF:-1,
-
+#EXTINF:-1,BEIN MOVIES 1
+http://95.170.215.120/hls/m3u8/Bein-Movies1.m3u8
+#EXTINF:-1,BEIN MOVIES 2
+http://95.170.215.120/hls/m3u8/Bein-Movies2.m3u8
 #EXTINF:-1,
 
 #EXTINF:-1,
