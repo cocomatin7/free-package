@@ -111,6 +111,8 @@ https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/4/prog_index.m3u8
 http://185.176.117.242/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
 #EXTINF:-1,DISNEY CHANEL
 http://185.176.117.242/live/eds/Disney_Channel/HLS_encr/index.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+https://anevia115.mncnow.id/live/eds/DisneyJunior/sa_hls/DisneyJunior.m3u8
 #EXTINF:-1,NAT GEO WILD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
 #EXTINF:-1,WRM TANZANIA
