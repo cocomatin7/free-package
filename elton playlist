@@ -38,7 +38,7 @@ http://ms-azure-video.gslb.startimestv.com/live/ST_SWAHILI_854_250_320x240_19166
 #EXTINF:-1,AMC MOVIES
 http://ms-azure-video.gslb.startimestv.com/live/AMC_MOVIES_990_250_320x240_210828/playlist.m3u8
 #EXTINF:-1,trace mziki
-http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/4/prog_index.m3u8
+http://ms-azure-video.gslb.startimestv.com/live/TRACE_MZIKI_952_500_480x360_195202/playlist.m3u8
 #EXTINF:-1,NTV KENYA
 http://1558183446.rsc.cdn77.org/1558183446/index.m3u8
 #EXTINF:-1,NBS
@@ -65,8 +65,8 @@ http://ms-azure-video.gslb.startimestv.com/live/ST_SA_Music_900_500_480x360_1940
 http://ms-azure-video.gslb.startimestv.com/live/ST_Gospel_846_500_480x360_191640/playlist.m3u8
 #EXTINF:-1,trace africa
 https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/3/prog_index.m3u8
-#EXTINF:-1,trace naija
-https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/4/prog_index.m3u8
+#EXTINF:-1,Liverpool tv
+Http://1902367650.rsc.cdn77.org/1903527760/tracks-v3a1/mono.m3u8 
 #EXTINF:-1,real madrid tv
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:-1,ST MOVIE PLUS
@@ -191,14 +191,14 @@ Http://190.2.158.8:21925/2e57e37c/ch8113?code=103131497823984&country=TZ&token=1
 Http://185.21.61.112:58961/2e57e37c/ch8114?code=103131497823984&country=TZ&token=180e0310&key=a469083c
 #EXTINF:-1,BEIN SPORTS 5
 Http://190.2.158.25:54267/2e57e37c/ch8115?code=103131497823984&country=TZ&token=180e0310&key=9d6d080d
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
+#EXTINF:-1,BEIN SPORTS 6
+Http://190.2.158.13:39893/2e57e37c/ch8116?code=103131497823984&country=TZ&token=180e0310&key=9d4e0813
+#EXTINF:-1,BEIN SPORTS 7
+Http://190.2.158.12:53990/2e57e37c/ch8117?code=103131497823984&country=TZ&token=180e0310&key=9d3a080d 
+#EXTINF:-1,BEIN SPORTS 8
+Http://190.2.158.8:21925/2e57e37c/ch8118?code=103131497823984&country=TZ&token=180e0310&key=968007dc 
+#EXTINF:-1,BEIN SPORTS 9
+Http://185.21.61.73:42069/2e57e37c/ch8510?code=103131497823984&country=TZ&token=180e0310&key=9d84080a
 #EXTINF:-1,
 
 #EXTINF:-1,
