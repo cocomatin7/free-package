@@ -115,8 +115,8 @@ http://185.176.117.242/live/eds/Disney_Channel/HLS_encr/index.m3u8
 https://anevia115.mncnow.id/live/eds/DisneyJunior/sa_hls/DisneyJunior.m3u8
 #EXTINF:-1,NAT GEO WILD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
-#EXTINF:-1,WRM TANZANIA
-http://tnaeu1.tulix.tv/live/tickerdemotlxtv-5927689.ts
+#EXTINF:-1,COMEDY CENTRAL
+http://sync1c.iptv.bingo/live/40641?u=1420398&s=a9e1e4d6ccb83825de4e1281ce72bcb7643e91cdc2d3b1918b5472074bbac047
 #EXTINF:-1,DISCOVERY SCIENCE
 http://1146796701.rsc.cdn77.org/1146796701/index.m3u8 
 #EXTINF:-1,HISTORY
@@ -153,8 +153,8 @@ http://95.170.215.120/hls/m3u8/Sky-Sports-5HD.m3u8
 http://95.170.215.120:80/hls/m3u8/Sky-Sport-action.m3u8
 #EXTINF:-1,SKY CANAL SPORTS
 http://190.2.158.24:60186/2e57e37c/ch202?code=103131497823984&country=TZ&token=180e0310&key=94a307ce
-#EXTINF:-1,HBO HD
-https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
+#EXTINF:-1,ZEE BOLLYWOOD
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/classic/index.m3u8
 #EXTINF:-1,STAR GOLD
 http://skdn.redi-vo.com/iptv/ch1704?code=103131497823984&key=40708
 #EXTINF:-1,STAR PLUS
@@ -163,12 +163,12 @@ http://skdn.redi-vo.com/iptv/ch1706?code=103131497823984&key=41959
 http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49779
 #EXTINF:-1,ZEE CINEMA
 http://skdn.redi-vo.com/iptv/ch1708?code=103131497823984&key=14797
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
+#EXTINF:-1,HBO
+https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
+#EXTINF:-1,HBO HITS
+https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
+#EXTINF:-1,HBO FAMILY
+https://www.livedoomovie.com/02_HBOFamily_720p/chunklist.m3u8
 #EXTINF:-1,
 
 #EXTINF:-1,
