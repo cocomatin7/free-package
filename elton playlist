@@ -89,6 +89,10 @@ Http://ms-azure-video.gslb.startimestv.com/live/ST_Soul_946_500_480x360_195166/p
 http://185.176.117.242/live/eds/MTV_Hits/HLS_encr/MTV_Hits.m3u8
 #EXTINF:-1,MTV BASE
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1,MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1,MTV DANCE
+http://91.149.172.100:80/channel?id=20&u=demo&p=demo
 #EXTINF:1,love nature
 http://ms-azure-video.gslb.startimestv.com/live/LOVE_NATURE_1164_500_480x360_662498/playlist.m3u8
 #EXTINF:-1,STARTV
@@ -167,8 +171,8 @@ http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49779
 http://skdn.redi-vo.com/iptv/ch1708?code=103131497823984&key=14797
 #EXTINF:-1,HBO
 https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
-#EXTINF:-1,HBO HITS
-https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
+#EXTINF:-1,FOX PREMIUM
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 #EXTINF:-1,HBO FAMILY
 https://www.livedoomovie.com/02_HBOFamily_720p/chunklist.m3u8
 #EXTINF:-1,BEIN MOVIES 1
@@ -209,6 +213,12 @@ http://196.52.33.154:25461/f47CRIMRe7/DUcbSy4mdy/111531?token=TRMOBUNfQAsWBlcDAw
 http://196.52.33.154:25461/f47CRIMRe7/DUcbSy4mdy/111529?token=TRMOBUNfQAsWBQZQAVcAVwFRAVMACVIGVlVZBAVVVlIEUlYBBQRQUFZBGEBBRUBUV106DQIaCgMBUg1TXUgSRUVUFDtZU0ALFlcAVgEAChMaEhENC10SCAFWAFNUUQIHAwdKRkBeBhMOQQ1QAgYQHRRVHRADSl5TXDxcBBINU1UUCwgRXFtOE1sNawZXXFNfUhJfRlYaHBBZEEhDXgpFXFodRAZZQxBQQAYWWBADAQMCEklGBVdFXEQRQUNeRmRqFB1EAUhDB19HClsMEAsQRUUSSUYPS29AVRBMEwEFXVVEE1xGABVOE1kCTD1RXlxfU1MRDQlWQxAKQQlDSEZdX1hYEgtCaBJYUEEOQAUFAQgUTQ==
 #EXTINF:-1,WWE CHANNEL
 http://196.52.33.154:25461/f47CRIMRe7/DUcbSy4mdy/113241?token=TRMOBUNfQAsWWgVRAVIECVMIVQdRAAkDB1UNUgdcVgkOCQUBAwJbBgVBGEBBRUBUV106DQIaCgMBUApVVUgSRUVUFDtZU0ALFlcAVgEAChMaEhENC10SCAFWAFNUUQIFAwNKRkBeBhMOQQVSCwUAExoSABwSXUJcUQ9nBQESWVNTE1wKRVsOHRYMWj1WVF9QWFRHXkQIEh4SCksRRl5eRVpdSkZSXhZDVRdRQAgTAAgHAkdIRFtfR14XShhGXhJkbBNKRlVPFlRaEF0NXBMIE0JDR0hEUUNtQgZLFRYBUV1TQ0ReEgdAHRYOVRptUl1fWFUGEA9XXkESWRpQRkgSXVlfDxBfRT1BXQcWWBAGBAgDEhg=
+#EXTINF:-,Studio Universal
+http://tv.factoryiptv.com:80/live/1752/1752/37043.ts
+#EXTINF:-1,TNT
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37035.m3u8
+#EXTINF:-1,TNT series
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37034.m3u8
 #EXTINF:-1,Sport klub 1
 http://185.180.12.34:8080/SK1HR/tracks-v1a1/mono.m3u8?token=test 
 #EXTINF:-1,Sport klub 2
