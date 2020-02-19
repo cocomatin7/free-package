@@ -171,16 +171,21 @@ http://skdn.redi-vo.com/iptv/ch1706?code=103131497823984&key=41959
 http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49779
 #EXTINF:-1,ZEE CINEMA
 http://skdn.redi-vo.com/iptv/ch1708?code=103131497823984&key=14797
-#EXTINF:-1,HBO
-http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8
-#EXTINF:-1,FOX PREMIUM
-http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
-#EXTINF:-1,AXN 
-http://210.210.155.35/uq2663/h/h141/01.m3u8 
-#EXTINF:-1,BEIN MOVIES 1
-http://95.170.215.120/hls/m3u8/Bein-Movies1.m3u8
-#EXTINF:-1,BEIN MOVIES 2
-http://95.170.215.120/hls/m3u8/Bein-Movies2.m3u8
+
+
+#EXTINF:-1,Bein movies hd1 premiere
+http://185.229.190.75/arabic_bein_movies_1_hd/tracks-v1a1/index.m3u8
+#EXTINF:-1,Bein movies hd2 ACTION
+http://185.229.190.75/arabic_bein_movies_2_hd/tracks-v1a1/index.m3u8
+#EXTINF:-1,Bein movies hd3 DRAMA
+http://185.229.190.75/arabic_bein_movies_3_hd/tracks-v1a1/index.m3u8
+#EXTINF:-1,Bein movies hd4 family
+http://185.229.190.75/arabic_bein_movies_4_hd/tracks-v1a1/index.m3u8
+
+
+
+
+
 #EXTINF:-1,Bein sports 
 http://95.170.215.120/hls/m3u8/Bein-Sport-HD-IMH-NGC.m3u8
 #EXTINF:-1,Bein sports 1 FHD
@@ -313,7 +318,33 @@ http://185.229.190.75/arabic_bein_sports_8_hd/tracks-v1a1/index.m3u8
 #EXTINF:-1,Bein hd9
 http://185.229.190.75/arabic_bein_sports_9_hd/tracks-v1a1/index.m3u8
 #EXTINF:-1,Bein hd10
+
+
 http://185.229.190.75/arabic_bein_sports_10_hd/tracks-v1a1/index.m3u8
+#EXTINF:-1,scilla RMC SPORT HD1
+http://thoptvstream.gq//api/scilla/play.m3u8?id=32118
+#EXTINF:-1,scilla RMC SPORT HD2 
+http://thoptvstream.gq//api/scilla/play.m3u8?id=32125
+#EXTINF:-1,scilla RMC SPORT HD3 
+http://thoptvstream.gq//api/scilla/play.m3u8?id=32132
+#EXTINF:-1,scilla RMC SPORT HD4 
+http://thoptvstream.gq//api/scilla/play.m3u8?id=32139
+
+#EXTINF:-1,scilla RMC sport access hd1
+http://thoptvstream.gq//api/scilla/play.m3u8?id=32510
+#EXTINF:-1,scilla RMC sport access hd2
+http://thoptvstream.gq//api/scilla/play.m3u8?id=32517
+#EXTINF:-1,scilla RMC sport access hd3
+http://thoptvstream.gq//api/scilla/play.m3u8?id=32524
+
+#EXTINF:-1,scilla Canal+
+http://thoptvstream.gq//api/scilla/play.m3u8?id=13768
+#EXTINF:-1,scilla Bein france hd1
+http://thoptvstream.gq/api/scilla/play.m3u8?id=13746
+#EXTINF:-1,scilla Bein france hd2
+http://thoptvstream.gq/api/scilla/play.m3u8?id=13747
+#EXTINF:-1,scilla Bein france hd3
+http://thoptvstream.gq/api/scilla/play.m3u8?id=13748
 
 
 #EXTINF:-1,Sport klub 1
@@ -339,6 +370,29 @@ http://185.180.12.34:8080/SK10/video.m3u8?token=test
 #EXTINF:-1,NBC SPORTS GOLF
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8
 
+#EXTINF:-1,C-more Football
+http://95.170.215.120/hls/m3u8/CMore-Football.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,C-more SPORTS
+http://95.170.215.120/hls/m3u8/CMore-Sport.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,CT SPORT
+http://95.170.215.118/hls/m3u8/CT-Sport.m3u8|User-Agent=Lavf/56.15.102
+
+#EXTINF:-1,BT sport Hd1
+http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,BT sport Hd2
+http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8|User-Agent=Lavf/56.15.102
+
+#EXTINF:-1,Eurosport HD1
+http://95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,Eurosport HD2 
+http://95.170.215.118/hls/m3u8/EURO-Sport-2.m3u8|User-Agent=Lavf/56.15.102
+
+#EXTINF:-1,Ziggo sport
+http://95.170.215.118/hls/m3u8/ZIGGO-voetbal.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,Ziggo select
+http://95.170.215.118hls/m3u8/ZIGGO-Select.m3u8|User-Agent=Lavf/56.15.102
+
+ 
 
 
 
