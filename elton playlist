@@ -215,12 +215,107 @@ http://95.170.215.120/hls/m3u8/BeinSport14.m3u8|User-Agent=Lavf/56.15.102
 http://95.170.215.120/hls/m3u8/BeinSport15.m3u8|User-Agent=Lavf/56.15.102
 #EXTINF:-1,bein sports 16 FHD
 http://95.170.215.120/hls/m3u8/BeinSport6.m3u8|User-Agent=Lavf/56.15.102
-#EXTINF:-,Studio Universal
-http://tv.factoryiptv.com:80/live/1752/1752/37043.ts
-#EXTINF:-1,TNT
-http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37035.m3u8
-#EXTINF:-1,TNT series
-http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37034.m3u8
+
+#EXTINF:-1,====[second] [ar]Bein hd1
+http://50.7.194.162:8000/nimok/mshare9601.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,[ar]Bein hd2
+http://50.7.194.162:8000/nimok/mshare9602.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,[ar]Bein hd3
+http://50.7.194.162:8000/nimok/mshare9603.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,[ar]Bein hd4
+http://50.7.194.162:8000/nimok/mshare9604.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,[ar]Bein hd5
+http://50.7.194.162:8000/nimok/mshare9605.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,[ar]Bein hd6
+http://50.7.194.162:8000/nimok/mshare9606.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,[ar]Bein hd7
+http://50.7.194.162:8000/nimok/mshare9607.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,[ar]Bein hd8
+http://50.7.194.162:8000/nimok/mshare9608.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,[ar]Bein hd9
+http://50.7.194.162:8000/nimok/mshare9609.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,[ar]Bein hd10
+http://50.7.194.162:8000/nimok/mshare9610.m3u8|User-Agent=Lavf/56.15.102
+
+
+#EXTINF:-1,====[THIRD] Bein SD1============================
+http://194.88.104.169:8081/sporstvtv_12th/beinsports1ar-576/playlist.m3u8|User-Agent=freeapppsss
+#EXTINF:-1,Bein SD2
+http://194.88.104.169:8081/sporstvtv_12th/beinsports2ar-576/playlist.m3u8|User-Agent=freeapppsss
+#EXTINF:-1,Bein SD3
+http://194.88.104.169:8081/sporstvtv_12th/beinsports3ar-576/playlist.m3u8|User-Agent=freeapppsss
+#EXTINF:-1,Bein SD4
+http://194.88.104.169:8081/sporstvtv_12th/beinsports4ar-576/playlist.m3u8|User-Agent=freeapppsss
+#EXTINF:-1,Bein SD5
+http://194.88.104.169:8081/sporstvtv_12th/beinsports5ar-576/playlist.m3u8|User-Agent=freeapppsss
+#EXTINF:-1,Bein SD6
+http://194.88.104.169:8081/sporstvtv_12th/beinsports6ar-576/playlist.m3u8|User-Agent=freeapppsss
+#EXTINF:-1,Bein SD7
+http://194.88.104.169:8081/sporstvtv_12th/beinsports7ar-576/playlist.m3u8|User-Agent=freeapppsss
+#EXTINF:-1,Bein SD8
+http://194.88.104.169:8081/sporstvtv_12th/beinsports8ar-576/playlist.m3u8|User-Agent=freeapppsss
+#EXTINF:-1,Bein SD9
+http://194.88.104.169:8081/sporstvtv_12th/beinsports9ar-576/playlist.m3u8|User-Agent=freeapppsss
+#EXTINF:-1,Bein SD10
+http://194.88.104.169:8081/sporstvtv_12th/beinsports10ar-576/playlist.m3u8|User-Agent=freeapppss
+#EXTINF:-1,Bein SD11
+http://194.88.104.169:8081/sporstvtv_12th/beinsports11ar-576/playlist.m3u8|User-Agent=freeapppsss
+
+
+#EXTINF:-1,Bein sd1 FR
+http://194.88.104.169:8081/sporstvtv_12th/bein1fr-576/playlist.m3u8|User-Agent=freeapppsss
+#EXTINF:-1,Bein sd2 FR
+http://194.88.104.169:8081/sporstvtv_12th/bein2fr-576/playlist.m3u8|User-Agent=freeapppsss
+#EXTINF:-1,Bein sd3 FR
+http://194.88.104.169:8081/sporstvtv_12th/bein3fr-576/playlist.m3u8|User-Agent=freeapppsss
+
+
+#EXTINF:-1,====[FORTH] Bein LOW1===================================
+http://194.88.104.169:8081/free1/beinsports1ar-3g/playlist.m3u8|User-Agent=freeapppsss
+#EXTINF:-1,Bein LOW2
+http://194.88.104.169:8081/free1/beinsports2ar-3g/playlist.m3u8|User-Agent=freeapppsss
+#EXTINF:-1,Bein LOW3
+http://194.88.104.169:8081/free1/beinsports3ar-3g/playlist.m3u8|User-Agent=freeapppsss
+#EXTINF:-1,Bein LOW4
+http://194.88.104.169:8081/free1/beinsports4ar-3g/playlist.m3u8|User-Agent=freeapppsss
+#EXTINF:-1,Bein LOW5
+http://194.88.104.169:8081/free1/beinsports5ar-3g/playlist.m3u8|User-Agent=freeapppsss
+#EXTINF:-1,Bein LOW6
+http://194.88.104.169:8081/free1/beinsports6ar-3g/playlist.m3u8|User-Agent=freeapppsss
+#EXTINF:-1,Bein LOW7
+http://194.88.104.169:8081/free1/beinsports7ar-3g/playlist.m3u8|User-Agent=freeapppsss
+#EXTINF:-1,Bein LOW8
+http://194.88.104.169:8081/free1/beinsports8ar-3g/playlist.m3u8|User-Agent=freeapppsss
+#EXTINF:-1,Bein LOW9
+http://194.88.104.169:8081/free1/beinsports9ar-3g/playlist.m3u8|User-Agent=freeapppsss
+#EXTINF:-1,Bein LOW10
+http://194.88.104.169:8081/free1/beinsports10ar-3g/playlist.m3u8|User-Agent=freeapppsss
+#EXTINF:-1,Bein LOW11
+http://194.88.104.169:8081/free1/beinsports11ar-3g/playlist.m3u8|User-Agent=freeapppsss
+
+
+#EXTINF:-1,====[FIFTH] Bein hd1=====================================
+http://185.229.190.75/arabic_bein_sports_1_hd/tracks-v1a1/index.m3u8
+#EXTINF:-1,Bein hd2
+http://185.229.190.75/arabic_bein_sports_2_hd/tracks-v1a1/index.m3u8
+#EXTINF:-1,Bein hd3
+http://185.229.190.75/arabic_bein_sports_3_hd/tracks-v1a1/index.m3u8
+#EXTINF:-1,Bein hd4
+http://185.229.190.75/arabic_bein_sports_4_hd/tracks-v1a1/index.m3u8
+#EXTINF:-1,Bein hd5
+http://185.229.190.75/arabic_bein_sports_5_hd/tracks-v1a1/index.m3u8
+#EXTINF:-1,Bein hd6
+http://185.229.190.75/arabic_bein_sports_6_hd/tracks-v1a1/index.m3u8
+#EXTINF:-1,Bein hd7
+http://185.229.190.75/arabic_bein_sports_7_hd/tracks-v1a1/index.m3u8
+#EXTINF:-1,Bein hd8
+http://185.229.190.75/arabic_bein_sports_8_hd/tracks-v1a1/index.m3u8
+#EXTINF:-1,Bein hd9
+http://185.229.190.75/arabic_bein_sports_9_hd/tracks-v1a1/index.m3u8
+#EXTINF:-1,Bein hd10
+http://185.229.190.75/arabic_bein_sports_10_hd/tracks-v1a1/index.m3u8
+
+
 #EXTINF:-1,Sport klub 1
 http://185.180.12.34:8080/SK1HR/tracks-v1a1/mono.m3u8?token=test 
 #EXTINF:-1,Sport klub 2
@@ -243,13 +338,7 @@ http://185.180.12.34:8080/SK9/video.m3u8?token=test
 http://185.180.12.34:8080/SK10/video.m3u8?token=test 
 #EXTINF:-1,NBC SPORTS GOLF
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8
-#EXTINF:-1,USA
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=25
-#EXTINF:-1,Sky movie 
-http://188.227.189.18:8082/TV4254
-#EXTINF:-1,bein sport 2
-http://195.154.227.38:1935/live/bein2frlsh/HasBahCa.m3u8
-#EXTINF:-1,bein sport 1
-http://ak-bein-us-en-stream.fubo.tv/UT-Origin/ngrp:BeInSports_EN_all/chunklist_b1628000.m3u8
+
+
 
 
