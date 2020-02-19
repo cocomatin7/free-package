@@ -183,11 +183,12 @@ http://95.170.215.120/hls/m3u8/Bein-Movies1.m3u8
 http://95.170.215.120/hls/m3u8/Bein-Movies2.m3u8
 #EXTINF:-1,Bein sports 
 http://95.170.215.120/hls/m3u8/Bein-Sport-HD-IMH-NGC.m3u8
-#EXTINF:-1,Bein sports 1
+#EXTINF:-1,Bein sports 1 FHD
 http://95.170.215.120/hls/m3u8/BeinSport1.m3u8|User-Agent=Lavf/56.15.102
-#EXTINF:-1,bein sports 2
+#EXTINF:-1,bein sports 2 FHD
 http://95.170.215.120/hls/m3u8/BeinSport2.m3u8
-#EXTINF:-1,SUPERSPORT 1
+#EXTINF:-1,bein sport 3 FHD
+http://95.170.215.120/hls/m3u8/BeinSport3.m3u8|User-Agent=Lavf/56.15.102
 #EXTINF:-1,SUPERSPORT 2
 #EXTINF:-1,SUPERSPORT 3
 #EXTINF:-1,SUPERSPORT 4
