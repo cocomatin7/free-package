@@ -239,15 +239,15 @@ http://185.180.12.34:8080/SK8/video.m3u8?token=test
 http://185.180.12.34:8080/SK9/video.m3u8?token=test 
 #EXTINF:-1,Sport klub 10
 http://185.180.12.34:8080/SK10/video.m3u8?token=test 
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
+#EXTINF:-1,NBC SPORTS GOLF
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8
+#EXTINF:-1,USA
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=25
+#EXTINF:-1,Sky movie 
+http://188.227.189.18:8082/TV4254
+#EXTINF:-1,bein sport 2
+http://195.154.227.38:1935/live/bein2frlsh/HasBahCa.m3u8
+#EXTINF:-1,bein sport 1
+http://ak-bein-us-en-stream.fubo.tv/UT-Origin/ngrp:BeInSports_EN_all/chunklist_b1628000.m3u8
 
 
