@@ -113,6 +113,8 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3
 https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/3/prog_index.m3u8
 #EXTINF:-1,TRACE NAIJA
 https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/4/prog_index.m3u8
+#EXTINF:-1,Trace urban
+https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8
 #EXTINF:-1,NICKELODEON
 http://185.176.117.242/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
 #EXTINF:-1,DISNEY CHANEL
@@ -120,7 +122,7 @@ http://185.176.117.242/live/eds/Disney_Channel/HLS_encr/index.m3u8
 #EXTINF:-1,DISNEY JUNIOR
 https://anevia115.mncnow.id/live/eds/DisneyJunior/sa_hls/DisneyJunior.m3u8
 #EXTINF:-1,NAT GEO WILD
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:-1,COMEDY CENTRAL
 http://sync1c.iptv.bingo/live/40641?u=1420398&s=a9e1e4d6ccb83825de4e1281ce72bcb7643e91cdc2d3b1918b5472074bbac047
 #EXTINF:-1,DISCOVERY SCIENCE
@@ -173,8 +175,8 @@ http://skdn.redi-vo.com/iptv/ch1708?code=103131497823984&key=14797
 https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
 #EXTINF:-1,FOX PREMIUM
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
-#EXTINF:-1,HBO FAMILY
-https://www.livedoomovie.com/02_HBOFamily_720p/chunklist.m3u8
+#EXTINF:-1,AXN 
+http://210.210.155.35/uq2663/h/h141/01.m3u8 
 #EXTINF:-1,BEIN MOVIES 1
 http://95.170.215.120/hls/m3u8/Bein-Movies1.m3u8
 #EXTINF:-1,BEIN MOVIES 2
