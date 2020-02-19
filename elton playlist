@@ -189,20 +189,32 @@ http://95.170.215.120/hls/m3u8/BeinSport1.m3u8|User-Agent=Lavf/56.15.102
 http://95.170.215.120/hls/m3u8/BeinSport2.m3u8
 #EXTINF:-1,bein sport 3 FHD
 http://95.170.215.120/hls/m3u8/BeinSport3.m3u8|User-Agent=Lavf/56.15.102
-#EXTINF:-1,SUPERSPORT 2
-#EXTINF:-1,SUPERSPORT 3
-#EXTINF:-1,SUPERSPORT 4
-#EXTINF:-1,SUPERSPORT 5
-#EXTINF:-1,SUPERSPORT 6
-#EXTINF:-1,SUPERSPORT 7
-#EXTINF:-1,SUPERSPORT 8
-#EXTINF:-1,SUPERSPORT 9
-#EXTINF:-1,SUPERSPORT 10
-#EXTINF:-1,SUPERSPORT 11
-#EXTINF:-1,SUPERSPORT 12
-#EXTINF:-1,SuperSport Maximo 1 HD
-#EXTINF:-1,BET 
-http://51.159.3.160:8080/zhongjin/82394d2392a2/58060?token=ShUNAEFcElxECA0GWlgCB1NUUlcDBAwMVAQFAwYHV1QDVFVTCgRRVl8aGEZKTREDAFhpWAUVDwwOAVVSG0AUEFRFOghWFgpEVA0GUhsVQRIIWFMTWwYAAQQAUVUHUVBPE0cMBRAOElRXCwBVGxVBAxlBU0MPVllmUlQVC1QHQ1lfQgkNHhZfCDlcUQlYVwdEWxcGE00VXEpGE1kMQg4NTxNVDBVAVUQDRAIWVgoKW0RNF1VeFFlBS08TWUBlN0NPE1IdFVdaQw8JVhZeG00QRE0XX0I+RVBKQkMGA1oHE0ELFVRDHhZdBx5nVwtXVwYFFVxZXxIVDxsAAVNAG0AMDF9eEQ5Aa0APAhoORgoIU1RDSA==
+#EXTINF:-1,bein sports 4 FHD
+http://95.170.215.120/hls/m3u8/BeinSport4.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-bein sports 5 FHD
+http://95.170.215.120/hls/m3u8/BeinSport5.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,bein sports 6 FHD
+http://95.170.215.120/hls/m3u8/BeinSport6.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,bein sports 7 FHD
+http://95.170.215.120/hls/m3u8/BeinSport7.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,bein sports 8 FHD
+http://95.170.215.120/hls/m3u8/BeinSport8.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,bein sports 9 FHD
+http://95.170.215.120/hls/m3u8/BeinSport9.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,bein sports 10 FHD
+http://95.170.215.120/hls/m3u8/BeinSport10.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,beinsports 11 FHD
+http://95.170.215.120/hls/m3u8/BeinSport11.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,bein sports 12 FHD
+http://95.170.215.120/hls/m3u8/BeinSport12.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,bein sports 13 FHD
+http://95.170.215.120/hls/m3u8/BeinSport13.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,bein sports 14 FHD
+http://95.170.215.120/hls/m3u8/BeinSport14.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,Bbein sports 15 FHD
+http://95.170.215.120/hls/m3u8/BeinSport15.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,bein sports 16 FHD
+http://95.170.215.120/hls/m3u8/BeinSport6.m3u8|User-Agent=Lavf/56.15.102
 #EXTINF:-,Studio Universal
 http://tv.factoryiptv.com:80/live/1752/1752/37043.ts
 #EXTINF:-1,TNT
