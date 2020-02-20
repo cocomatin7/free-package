@@ -116,11 +116,11 @@ http://live.cgtn.com/500/prog_index.m3u8
 http://ott.artmott.com/CNN/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://trace.tv/trace-mziki/wp-content/uploads/sites/21/2016/11/logo_mziki-1.png" group-title="music",Trace Mziki
-http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/3/prog_index.m3u8
+http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/4/prog_index.m3u8
 #EXTINF:-1,TRACE AFRICA
-https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/3/prog_index.m3u8
-#EXTINF:-1,TRACE NAIJA
-https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/3/prog_index.m3u8
+https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/4/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://trace.tv/trace-naija/wp-content/uploads/sites/25/2016/11/logo_naija-1.png" group-title="music",Trace Naija
+http://d2ktlibtvvj8vp.cloudfront.net/trace_naija/4/prog_index.m3u8
 #EXTINF:-1,Trace urban
 https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/3/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://trace.company/wp-content/uploads/2017/08/TRACE-logo-kitoko-01-1.png" group-title="music",Tracekitoko
@@ -250,12 +250,15 @@ https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyPix.in.png" group-title="Movies",Sony Pix
 https://streamer-1.toffeelive.com/live/sony_pix_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SonyMoviesChristmas.uk.png" group-title="Movies",Sony Movies
+http://51.52.156.22:8888/http/009
 #EXTINF:-1,ENTERAINMENT E
 http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
 #EXTINF:-1,FOX LIFE
 https://anevia115.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld-avc1_2499968=7-mp4a_98800_ind=2.m3u8
 #EXTINF:-1,AMC
 http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="Sports",beIN Sports 1 Asia
 http://anevia115.mncnow.id/live/eds/BeIN1/sa_hls/BeIN1-avc1_2499968=11-BeIN1-mp4a_98800_eng=3.m3u8
@@ -428,6 +431,8 @@ http://51.52.156.22:8888/http/005
 http://51.52.156.22:8888/http/006
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITV4.uk.png" group-title="UK",ITV 4
 http://51.52.156.22:8888/http/007
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CBSReality.uk.png" group-title="UK",CBS Reality
+http://ott.artmott.com/CBS-Reality/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.romanzaplus.tv/wp-content/uploads/2018/04/logo6.png" group-title="STARTIMES",Romanza Africa
 https://1880631908.rsc.cdn77.org/1880631908/tracks-v1a1/mono.m3u8
