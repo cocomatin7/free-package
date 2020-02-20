@@ -182,8 +182,25 @@ http://185.229.190.75/arabic_bein_movies_3_hd/tracks-v1a1/index.m3u8
 #EXTINF:-1,Bein movies hd4 family
 http://185.229.190.75/arabic_bein_movies_4_hd/tracks-v1a1/index.m3u8
 
+#EXTINF:-1,====[EURO MOVIES] HBO1==================================
+http://95.170.215.118/hls/m3u8/HBO.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,HBO2
+http://95.170.215.118/hls/m3u8/HBO-2.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,HBO 2 UK
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+#EXTINF:-1,HBO3
+http://95.170.215.118/hls/m3u8/HBO-3.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,Sky movies ACTION
+http://95.170.215.118/hls/m3u8/Sky-MoviesAction.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,Sky movies PREMIERE
+http://95.170.215.118/hls/m3u8/Sky-MoviesPremie.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,Sky movies SELECT
+http://95.170.215.118/hls/m3u8/Sky-MoviesSelect.m3u8|User-Agent=Lavf/56.15.102
 
-
+#EXTINF:-1,The movies
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1,Sony UK
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
 
 
 #EXTINF:-1,Bein sports 
@@ -216,7 +233,7 @@ http://95.170.215.120/hls/m3u8/BeinSport12.m3u8|User-Agent=Lavf/56.15.102
 http://95.170.215.120/hls/m3u8/BeinSport13.m3u8|User-Agent=Lavf/56.15.102
 #EXTINF:-1,bein sports 14 FHD
 http://95.170.215.120/hls/m3u8/BeinSport14.m3u8|User-Agent=Lavf/56.15.102
-#EXTINF:-1,Bbein sports 15 FHD
+#EXTINF:-1,Bein sports 15 FHD
 http://95.170.215.120/hls/m3u8/BeinSport15.m3u8|User-Agent=Lavf/56.15.102
 #EXTINF:-1,bein sports 16 FHD
 http://95.170.215.120/hls/m3u8/BeinSport6.m3u8|User-Agent=Lavf/56.15.102
@@ -392,7 +409,31 @@ http://95.170.215.118/hls/m3u8/ZIGGO-voetbal.m3u8|User-Agent=Lavf/56.15.102
 #EXTINF:-1,Ziggo select
 http://95.170.215.118hls/m3u8/ZIGGO-Select.m3u8|User-Agent=Lavf/56.15.102
 
- 
+
+  #EXTINF:-1,BBC NEWS
+http://185.53.163.214:5678/ipvt_009
+#EXTINF:-1,Bbc news
+http://185.53.163.214:5678/ipvt_010
+#EXTINF:-1,bbc one
+http://185.53.163.214:5678/ipvt_011
+#EXTINF:-1,BBC two
+http://185.53.163.214:5678/ipvt_012
 
 
+#EXTINF:-1,====[Sky] sport hd1================================
+http://95.170.215.120/hls/m3u8/Sky-Sports-1HD.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,Sky sport hd2
+http://95.170.215.120/hls/m3u8/Sky-Sports-2HD.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,Sky sport hd3 Usa
+http://95.170.215.120/hls/m3u8/Sky-Sports-3HD.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,Sky sport hd4 GOLF
+http://95.170.215.120/hls/m3u8/Sky-Sports-4HD.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,Sky sport hd5 premiere league
+http://95.170.215.120/hls/m3u8/Sky-Sports-5HD.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,Sky sports golf FOOTBALL
+http://163.172.211.93:8081/Sky/Golf/index.m3u8
+#EXTINF:-1,Sky cricket ptv sports
+http://163.172.211.93:8081/Cric/SK/index.m3u8
+#EXTINF:-1,Sky formula one
+http://163.172.211.93:8081/Sky/FF1/index.m3u8
 
