@@ -462,6 +462,10 @@ https://edge10.vedge.infomaniak.com/livecast/impacttele/chunklist.m3u8
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CRTV.m3u8
 #EXTINF:-1 tvg-logo="http://www.crtv.cm/wp-content/uploads/2017/10/LOGO_CRTV_01.png" group-title="Cameroun",CRTV News
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CRTVN.m3u8
+#EXTINF:-1 tvg-logo="https://d2q0xv3544jvkb.cloudfront.net/images/tvm-logotipo.jpg" group-title="Mozambique",Televisão de Moçambique
+http://196.28.226.121:1935/live/smil:Channel1.smil/chunklist_b714000_slpor.m3u8
+#EXTINF:-1 tvg-logo="https://d2q0xv3544jvkb.cloudfront.net/images/programacao/novosb/TVM2-GERALW.jpg" group-title="Mozambique",TVM Internacional
+http://196.28.226.121:1935/live/smil:Channel2.smil/chunklist_b714000_slpor.m3u8
 
 #EXTINF:-1 tvg-logo="https://nbs.ug/wp-content/uploads/2019/08/NBS-TV-Logo-1.png" group-title="Uganda",NBS
 https://1641497600.rsc.cdn77.org/1641497600/tracks-v1a1/mono.m3u8
