@@ -123,6 +123,7 @@ https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/3/prog_index.m3u8
 https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/4/prog_index.m3u8
 #EXTINF:-1,Trace urban
 https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8
+
 #EXTINF:-1,NICKELODEON
 http://185.176.117.242/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
 #EXTINF:-1,DISNEY CHANEL
@@ -445,9 +446,11 @@ http://ms-azure-video.gslb.startimestv.com/live/ST_WORLD_FOOTBALL_HD_1020_1000_6
 http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_LIFE_UHD_1044_1000_640x480_306838/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2017/02/ST-Yoruba.png" group-title="Kenya",ST Yourba
 http://ms-azure-video.gslb.startimestv.com/live/ST_YORUBA_902_500_480x360_194034/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1169611217075363841/iEBPJJWK_400x400.jpg" group-title="Uganda",Bukedde 1
 https://1353178646.rsc.cdn77.org/1353178646/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.satlogo.com/hires/bb/bukedde_tv2_ug.png" group-title="Uganda",Bukedde 2
 https://1053392593.rsc.cdn77.org/1053392593/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1,NTV UGANDA
+http://1534761621.rsc.cdn77.org/1534761621/index.m3u8
 
