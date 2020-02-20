@@ -206,8 +206,40 @@ http://185.180.12.34:8080/SK9/video.m3u8?token=test
 #EXTINF:-1,Sport klub 10
 http://185.180.12.34:8080/SK10/video.m3u8?token=test 
 
-
-
+#EXTINF:-1,EBS
+http://210.99.243.166:9981/stream/channelid/1262432529
+#EXTINF:-1,EBS2
+http://210.99.243.166:9981/stream/channelid/1144032770
+#EXTINF:-1,JEI 재능TV
+http://210.99.243.166:9981/stream/channelid/1312264201
+#EXTINF:-1,JTBC Golf
+http://210.99.243.166:9981/stream/channelid/219895582
+#EXTINF:-1,KBS1
+http://210.99.243.166:9981/stream/channelid/401010116
+#EXTINF:-1,KBS2
+http://210.99.243.166:9981/stream/channelid/937473019
+#EXTINF:-1,SBS
+http://210.99.243.166:9981/stream/channelid/1403390902
+#EXTINF:-1,채널CGV
+http://210.99.243.166:9981/stream/channelid/304247289
+#EXTINF:-1,SBS
+http://220.81.169.165:9981/stream/channelid/2061856122
+#EXTINF:-1,SBS
+http://220.81.169.165:9981/stream/channelid/723762558
+#EXTINF:-1,YTN
+http://220.81.169.165:9981/stream/channelid/1897162141
+#EXTINF:-1,SPOTV
+http://220.81.169.165:9981/stream/channelid/4432981
+#EXTINF:-1,SkySports
+http://220.81.169.165:9981/stream/channelid/1072084575
+#EXTINF:-1,SBS Sports
+http://220.81.169.165:9981/stream/channelid/912463639
+#EXTINF:-1,SBS Sports
+http://220.81.169.165:9981/stream/channelid/1196588199
+#EXTINF:-1,KBS N Sports
+http://220.81.169.165:9981/stream/channelid/1946627401
+#EXTINF:-1,KBS N Sports
+http://220.81.169.165:9981/stream/channelid/989969894
 
 
 
