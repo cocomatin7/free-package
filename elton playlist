@@ -425,8 +425,43 @@ http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_LIFE_UHD_1044_1000_640
 http://ms-azure-video.gslb.startimestv.com/live/ST_YORUBA_902_500_480x360_194034/playlist.m3u8
 #EXTINF:-1,ST GOSPEL
 http://ms-azure-video.gslb.startimestv.com/live/ST_Gospel_846_500_480x360_191640/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.startimestv.com/static/image/product/7b3b7c20-0dbd-4d02-b89f-2aab0c1d8d6a.png" group-title="Ghana",ST Adepa
 http://ms-azure-video.gslb.startimestv.com/live/ST_ADEPA_UHD_1038_1000_640x480_301858/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/Ghana_TV.png" group-title="Ghana",Ghana TV
+https://bk7l2g37dx53-hls-live.5centscdn.com/GTV/live1.stream/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.africawebtv.com/wp-content/uploads/2015/02/adomtv_logo.png" group-title="Ghana",ADOM TV
+https://bk7l2g37dx53-hls-live.5centscdn.com/adom/5b97b7d64a64c7cd54c18b07e93570a1.sdp/index.m3u8
+#EXTINF:-1 tvg-logo="https://ecable.tv/wp-content/uploads/2019/02/joy-prime-gh.png" group-title="Ghana",Joy Prime
+https://hls396474.r-cdn.com/trn_61808/1140/remux/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://livetvcentral.com/imgs/tvs/3299.jpg" group-title="Ghana",Resurrection TV
+http://rtmp.ottdemo.rrsat.com/rrsatrtv1/rrsatrtvmulti.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://rtgkoloma.info/wp-content/uploads/2017/12/logofinal.jpg" group-title="Guinée",RTG
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@690091/master.m3u8
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/16278/logo_rti%205.png" group-title="Côte d’Ivoire",RTI 1
+https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/chunklist_w2123045922_b250000.m3u8
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/8150/rti_tv2_ci.png" group-title="Côte d’Ivoire",RTI 2
+https://www.enovativecdn.com:4433/rticdn/smil:rti2.smil/chunklist_w1505588093_b250000.m3u8
+#EXTINF:-1 tvg-logo="http://www.watanegypt.tv/design/home/img/logo.png" group-title="مَصر",Watan
+http://watantv.origin.technostreaming.net:8081/watantv_source2/live/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://webtvonlive.com/wp-content/uploads/Addis-webtvonlive-com.jpg" group-title="ኢትዮጵያ/ተጋሩ",Addis TV
+https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://eri.tv/EriTV6.png" group-title="ኢትዮጵያ/ተጋሩ",Eri-TV 1
+http://217.182.137.206/eri.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvgelive.gq/images/logo-dark.png" group-title="Equatorial Guinea",TVGE
+http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.sangatv.com/images/channels/logo/7ebe5340-f30a-11e8-9f8a-e9ca4b6252dc.png" group-title="Cameroun",Vision 4
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.millereponses.com/wp-content/uploads/2018/11/chaine-nord-africaine-frequence-nilesat.jpg" group-title="الدزاير",Chaine Nord Africaine
+http://live.creacast.com/cna/smil:cna.smil/chunklist_w1780122037_b864000.m3u8
+#EXTINF:-1 tvg-logo="https://www.rtb.bf/wp-content/uploads/2019/08/LOgo-RTB-272-90.png" group-title="Burkina Faso",RTB
+https://edge2.vedge.infomaniak.com/livecast/ik:rtbtvlive1/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.imgbin.com/17/7/25/imgbin-logo-television-channel-impact-tv-high-definition-television-others-BuT5pv2J8EZmD93DULrQjFpRk.jpg" group-title="Burkina Faso",Impac TV
+https://edge10.vedge.infomaniak.com/livecast/impacttele/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.crtv.cm/wp-content/uploads/2017/10/LOGO_CRTV_sans_texte.png" group-title="Cameroun",CRTV
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CRTV.m3u8
+#EXTINF:-1 tvg-logo="http://www.crtv.cm/wp-content/uploads/2017/10/LOGO_CRTV_01.png" group-title="Cameroun",CRTV News
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CRTVN.m3u8
 
 #EXTINF:-1 tvg-logo="https://nbs.ug/wp-content/uploads/2019/08/NBS-TV-Logo-1.png" group-title="Uganda",NBS
 https://1641497600.rsc.cdn77.org/1641497600/tracks-v1a1/mono.m3u8
