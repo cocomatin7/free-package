@@ -210,15 +210,12 @@ http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49779
 http://skdn.redi-vo.com/iptv/ch1708?code=103131497823984&key=14797
 
 
-#EXTINF:-1,====[EURO MOVIES] HBO1==================================
-http://95.170.215.118/hls/m3u8/HBO.m3u8|User-Agent=Lavf/56.15.102
-#EXTINF:-1,HBO2
-http://95.170.215.118/hls/m3u8/HBO-2.m3u8|User-Agent=Lavf/56.15.102
 #EXTINF:-1,AXN
 http://210.210.155.66/h/h141/01.m3u8
 #EXTINF:-1,WWE
 https://delivery.macan.live/stream/macan_sport_15/index.m3u8?token=8zOOHzs7&v=20200202
 #EXTINF:-1,toni movies
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/HBO.cz.png" group-title="Movies",HBO
 https://www.doofree88.com/streaming/hd-hbo-th_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOHits.id.png" group-title="Movies",HBO Hits
@@ -227,7 +224,6 @@ https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits-avc1_2499968=10-HBO
 https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
 #EXTINF:-1 tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="Movies",HITS Movies
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies-avc1_2499968=12-mp4a_98800_eng=5.m3u8
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MGM.us.png" group-title="Movies",MGM Scifi
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/MoviesNow.in.png" group-title="Movies",Movies Now
