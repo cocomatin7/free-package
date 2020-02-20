@@ -132,8 +132,8 @@ http://ott.artmott.com/CNN/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://trace.tv/trace-mziki/wp-content/uploads/sites/21/2016/11/logo_mziki-1.png" group-title="music",Trace Mziki
 http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/4/prog_index.m3u8
-#EXTINF:-1,TRACE AFRICA
-https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/4/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://trace.tv/trace-africa/wp-content/uploads/sites/23/2016/11/logo_africa-1.png" group-title="music",Trace Africa
+http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/4/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://trace.tv/trace-naija/wp-content/uploads/sites/25/2016/11/logo_naija-1.png" group-title="music",Trace Naija
 http://d2ktlibtvvj8vp.cloudfront.net/trace_naija/4/prog_index.m3u8
 #EXTINF:-1,Trace urban
