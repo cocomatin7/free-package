@@ -121,6 +121,35 @@ http://185.176.117.242/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
 http://185.176.117.242/live/eds/Disney_Channel/HLS_encr/index.m3u8
 #EXTINF:-1,DISNEY JUNIOR
 https://anevia115.mncnow.id/live/eds/DisneyJunior/sa_hls/DisneyJunior.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/BabyFirstTV.pl.png" group-title="Kids/Animation",BabyFirst
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/Boomerang.de.png" group-title="Kids/Animation",Boomerang
+http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/Cbeebies.au.png" group-title="Kids/Animation",Cbeebies
+https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_hls/Cbeebies-avc1_1000000=7-Cbeebies-mp4a_98800_eng=5.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/CartoonNetwork.de.png" group-title="Kids/Animation",Cartoon Network
+https://jago.tv21.me/live/rayga/3456/usee/cartoonnetwork/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/DisneyChannel.ee.png" group-title="Kids/Animation",Disney Channel
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DisneyJunior.uk.png" group-title="Kids/Animation",Disney Jr
+https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_hls/DisneyJunior.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/DisneyXD.de.png" group-title="Kids/Animation",Disney XD
+http://185.176.117.243/live/eds/Disney_XD/HLS_encr/Disney_XD-avc1_1200000=10-Disney_XD-mp4a_96000_eng=5.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/DreamWorks.qa.png" group-title="Kids/Animation",DreamWork
+https://dl.dropbox.com/s/9b9z5db065tqods/DreamWork.m3u8?dl=1
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sk/DuckTV.sk.png" group-title="Kids/Animation",Duck TV
+http://livecdnh3.tvanywhere.ae/hls/duck/index.m3u8
+#EXTINF:-1 tvg-logo="https://digitalrussia.tv/upload/files/48266978_525772611258059_7076947931516895232_n.png" group-title="Kids/Animation",FAN TV
+http://195.9.195.3:8080/hls/157239.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/JimJam.pl.png" group-title="Kids/Animation",Jim Jam
+http://ms-azure-video.gslb.startimestv.com/live/JIMJAM_890_500_480x360_194010/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.fixundfoxi.tv/fileadmin/img/logo.png" group-title="Kids/Animation",Fix & Foxi
+https://1301485333.rsc.cdn77.org/1301485333/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Nickelodeon.uk.png" group-title="Kids/Animation",Nickelodeon
+https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon-avc1_1000000=8-mp4a_98800_eng=4.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sa/NickJr.sa.png" group-title="Kids/Animation",Nick Jr
+https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr-avc1_1000000=8-mp4a_98800_eng=4.m3u8
+
 #EXTINF:-1,NAT GEO WILD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:-1,COMEDY CENTRAL
@@ -147,12 +176,12 @@ http://1904441568.rsc.cdn77.org/1904441568/tracks-v1a1/mono.m3u8
 Http://ms-azure-video.gslb.startimestv.com/live/ST_KIDS_768_500_480x360_167446/playlist.m3u8
 #EXTINF:-1,REEL PX UNLIMITED
 http://1002631743.rsc.cdn77.org/1002631743/index.m3u8
-#EXTINF:-1,SKY SPORTS FOOTBALL HD
-http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE HD
-Http://217.23.0.160:44560/2e57e37c/ch937?code=103131497823984&country=TZ&token=180e0310&key=94d407d1
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE SD
-http://95.170.215.120:80/hls/m3u8/Sky-Sports-3HD.m3u8
+#EXTINF:-1,ENTERAINMENT E
+http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
+#EXTINF:-1,FOX LIFE
+https://anevia115.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld-avc1_2499968=7-mp4a_98800_ind=2.m3u8
+#EXTINF:-1,AMC
+http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TRUE SPORT HD 1
 https://livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
 #EXTINF:-1,TRUE SPORT HD 3
@@ -177,13 +206,110 @@ http://skdn.redi-vo.com/iptv/ch1708?code=103131497823984&key=14797
 http://95.170.215.118/hls/m3u8/HBO.m3u8|User-Agent=Lavf/56.15.102
 #EXTINF:-1,HBO2
 http://95.170.215.118/hls/m3u8/HBO-2.m3u8|User-Agent=Lavf/56.15.102
-#EXTINF:-1,HBO 2 UK
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
-#EXTINF:-1,HBO3
-http://95.170.215.118/hls/m3u8/HBO-3.m3u8|User-Agent=Lavf/56.15.102
-
+#EXTINF:-1,AXN
+http://210.210.155.66/h/h141/01.m3u8
+#EXTINF:-1,WWE
+https://delivery.macan.live/stream/macan_sport_15/index.m3u8?token=8zOOHzs7&v=20200202
 #EXTINF:-1,toni movies
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/HBO.cz.png" group-title="Movies",HBO
+https://www.doofree88.com/streaming/hd-hbo-th_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOHits.id.png" group-title="Movies",HBO Hits
+https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits-avc1_2499968=10-HBOHits-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOSignature.id.png" group-title="Movies",HBO Signature
+https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
+#EXTINF:-1 tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="Movies",HITS Movies
+https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies-avc1_2499968=12-mp4a_98800_eng=5.m3u8
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MGM.us.png" group-title="Movies",MGM Scifi
+https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/MoviesNow.in.png" group-title="Movies",Movies Now
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/MNX2.in.png" group-title="Movies",MNX Movies
+https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyPix.in.png" group-title="Movies",Sony Pix
+https://streamer-1.toffeelive.com/live/sony_pix_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="Sports",beIN Sports 1 Asia
+http://anevia115.mncnow.id/live/eds/BeIN1/sa_hls/BeIN1-avc1_2499968=11-BeIN1-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="Sports",beIN Sports 2 Asia
+http://anevia115.mncnow.id/live/eds/BeIN2/sa_hls/BeIN2-avc1_2499968=10-BeIN2-mp4a_98800_eng=5.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="Sports",beIN Sports 1 Asia
+https://www.doofree88.com/streaming/epl-bein1_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="Sports",beIN Sports 2 Asia
+https://www.doofree88.com/streaming/epl-bein2_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSportsEnEspanol.us.png" group-title="Sports",beIN Sports Espanol
+http://claro2-pi-dns.herokuapp.com/master.php?id=56&f=.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports1.qa.png" group-title="Sports",beIN Sports 1
+http://51.15.8.16:8081/arbiarb/beinsports1/chunks.m3u8?
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports2.qa.png" group-title="Sports",beIN Sports 2
+http://51.15.8.16:8081/arbiarb/beinsports2/chunks.m3u8?
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports3.qa.png" group-title="Sports",beIN Sports 3
+http://51.15.8.16:8081/arbiarb/beinsports3/chunks.m3u8?
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports4.qa.png" group-title="Sports",beIN Sports 4
+http://51.15.8.16:8081/arbiarb/beinsports4/chunks.m3u8?
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports5.qa.png" group-title="Sports",beIN Sports 5
+http://51.15.8.16:8081/arbiarb/beinsports5/chunks.m3u8?
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports6.qa.png" group-title="Sports",beIN Sports 6
+http://51.15.8.16:8081/arbiarb/beinsports6/chunks.m3u8?
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports7.qa.png" group-title="Sports",beIN Sports 7
+http://51.15.8.16:8081/arbiarb/beinsports7/chunks.m3u8?
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports8.qa.png" group-title="Sports",beIN Sports 8
+http://51.15.8.16:8081/arbiarb/beinsports8/chunks.m3u8?
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports9.qa.png" group-title="Sports",beIN Sports 9
+http://51.15.8.16:8081/arbiarb/beinsports9/chunks.m3u8?
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/Arenasport1.rs.png" group-title="Sports",Arena Sports 1
+http://ott.artmott.com/ArenaSport1MW/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/Arenasport2.rs.png" group-title="Sports",Arena Sports 2
+http://185.180.12.34:8080/ARENA2HR/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/Arenasport3.rs.png" group-title="Sports",Arena Sports 3
+http://185.180.12.34:8080/ARENA3HR/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/Arenasport4.rs.png" group-title="Sports",Arena Sports 4
+http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/Arenasport5.rs.png" group-title="Sports",Arena Sports 5
+http://ott.artmott.com/ArenaSport5MW/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="Sports",BT Sports 1
+https://www.doofree88.com/streaming/uk-btsport1hd_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="Sports",BT Sports 2
+https://www.doofree88.com/streaming/uk-btsport2hd_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585-354x200.jpg" group-title="Sports",Fox Sports 1 USA
+http://claro2-pi-dns.herokuapp.com/master.php?id=108&f=.m3u8
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2017/08/FS2-Logo_1040x585-354x200.jpg" group-title="Sports",Fox Sports 2 USA
+http://claro2-pi-dns.herokuapp.com/master.php?id=109&f=.m3u8
+#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="Sports",Fox Sports 1 Asia
+https://www.doofree88.com/streaming/hd-foxsports1_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="Sports",Fox Sports 2 Asia
+https://www.doofree88.com/streaming/sd-foxsports2_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="Sports",Fox Sports 3 Asia
+https://www.doofree88.com/streaming/sd-foxsports3_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="Sports",Fox Sports 1 Asia
+http://anevia115.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-FOXSports-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="Sports",Fox Sports 2 Asia
+http://anevia115.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-FoxSports2-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="Sports",Fox Sports 3 Asia
+http://anevia115.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3-avc1_2499968=10-FoxSports3-mp4a_98800_eng=5.m3u8
+https://www.doofree88.com/streaming/uk-btsport2hd_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ie/SetantaEurasiaEn.ie.png" group-title="Sports",Setanta Sports
+http://92.46.127.146:8080//SetantaSport/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ie/SetantaEurasiaPlusRu.ie.png" group-title="Sports",Setanta Sports +
+http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsAction.uk.png" group-title="Sports",Sky Sports Action
+https://www.doofree88.com/streaming/uk-skysports-action_action_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsArena.uk.png" group-title="Sports",Sky Sports Arena
+https://www.doofree88.com/streaming/uk-skysports-action_action_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsF1.uk.png" group-title="Sports",Sky Sports F1
+https://www.doofree88.com/streaming/uk-skysports-f1_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsMainEvent.uk.png" group-title="Sports",Sky Sports Main Event
+https://www.doofree88.com/streaming/uk-skysports-mainevent_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsMix.uk.png" group-title="Sports",Sky Sports Mix
+https://www.doofree88.com/streaming/uk-skysports-mix_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsPremiereLeague.uk.png" group-title="Football",Sky Sports EPL
+https://www.doofree88.com/streaming/uk-skysports-epl_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsFootball.uk.png" group-title="Football",Sky Sports Football
+https://www.doofree88.com/streaming/uk-skysports-football_720/index.m3u8
+
 
 #EXTINF:-1,Sport klub 1
 http://185.180.12.34:8080/SK1HR/tracks-v1a1/mono.m3u8?token=test 
