@@ -81,10 +81,39 @@ Http://1902367650.rsc.cdn77.org/1903527760/tracks-v3a1/mono.m3u8
 http://ms-azure-video.gslb.startimestv.com/live/LOVE_NATURE_1164_500_480x360_662498/playlist.m3u8
 #EXTINF:-1,SABC 3
 http://154.72.21.249/hdmi
-#EXTINF:-1,CTGN NEWS
-http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:-1,ALJAZERA
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBCWorldNews.uk.png" group-title="News",BBC World News
+http://185.176.117.243/live/eds/BBC/HLS_encr/BBC.m3u8
+#EXTINF:-1 tvg-logo="https://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="News",Al Jazeera English
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.universfreebox.com/wp-content/uploads/2019/07/image-africanews.png" group-title="News",Africa News
+https://1904441568.rsc.cdn77.org/1904441568/tracks-v1a1/mono.m3u8
+#EXTINF:-1 logo="https://static.iptv-epg.com/kr/ArirangTV.kr.png" group-title="News",Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://kkdjradio.com/wp-content/uploads/2019/01/cbs-news.png" group-title="News",CBS News
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/DeutscheWelleEn.de.png" group-title="News",Deutsche Welle (English)
+https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/France24English.fr.png" group-title="News",France 24
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Euronews.ru.png" group-title="News",Euronews
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EuroNews.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/398_300.png" group-title="News",NHK World
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Logo_NHK_World_Premium.jpg" group-title="News",NHK World Premium
+https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_hls/NHKWorldPremium-avc1_1000000=7-NHKWorldPremium-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/RTInternational.ru.png" group-title="News",RT
+http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkyNews.uk.png" group-title="News",Sky News UK
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/tr/TRTWorld.tr.png" group-title="News",TRT World
+https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/CGTN_-_fran%C3%A7ais.png" group-title="News",CGTN Français
+https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/CGTN_-_fran%C3%A7ais.png" group-title="News",CGTN NEWS
+http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNN.uk.png" group-title="News",CNN
+http://ott.artmott.com/CNN/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://trace.tv/trace-mziki/wp-content/uploads/sites/21/2016/11/logo_mziki-1.png" group-title="music",Trace Mziki
 http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/3/prog_index.m3u8
@@ -499,6 +528,25 @@ https://1348158211.rsc.cdn77.org/1348158211/tracks-v1a1/mono.m3u8
 https://1285215926.rsc.cdn77.org/1285215926/tracks-v3a1/mono.m3u8
 #EXTINF:-1,ARK TV
 https://streaming.viewmedia.tv/viewsatstream35/viewsatstream35.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="体育台",CCTV-5 体育频道
+http://111.40.205.87/PLTV/88888888/224/3221225711/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="体育台",CCTV-5+ 体育赛事
+http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="体育台",CCTV 风云足球
+http://39.135.15.70:6610/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="体育台",CCTV 高尔夫网球
+http://39.135.15.70:6610/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="体育台",北京冬奥纪实
+http://39.135.15.70:6610/PLTV/88888888/224/3221226075/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/GuangdongSports.cn.png" group-title="体育台",广东体育
+https://116.77.72.195/streams/d/gdty/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/18/1-1P5121Q245326.jpg" group-title="体育台",澳視體育
+http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-trendsport.png" group-title="体育台",博斯魅力網
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+
+
 
 
 
