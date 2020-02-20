@@ -437,3 +437,45 @@ http://163.172.211.93:8081/Cric/SK/index.m3u8
 #EXTINF:-1,Sky formula one
 http://163.172.211.93:8081/Sky/FF1/index.m3u8
 
+
+#EXTINF:-1,====[FIRST] Fox sport hd1==============================
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/5.ts|User-Agent=freeapppsss
+#EXTINF:-1,Fox hd2
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/4.ts|User-Agent=freeapppsss
+#EXTINF:-1,Fox hd3
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/3.ts|User-Agent=freeapppsss
+#EXTINF:-1,Fox hd4
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2.ts|User-Agent=freeapppsss
+#EXTINF:-1,Fox hd5
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/1.ts|User-Agent=freeapppss
+
+#EXTINF:-1,Fox sport hd2
+http://flu1.podzone.net:9091/Fox/2/index.m3u8
+
+#EXTINF:-1,====[SECOND] FOX SPORT hd1========================================
+http://95.170.215.118/hls/m3u8/Fox-Sport-1.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,Fox sport hd2
+http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/4.ts|User-Agent=sportstv
+#EXTINF:-1,Fox sport hd3
+http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/3.ts|User-Agent=sportstv
+#EXTINF:-1,Fox sport hd4
+http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/2.ts|User-Agent=sportstv
+#EXTINF:-1,Fox sport hd5
+http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/1.ts|User-Agent=sportstv
+
+#EXTINF:-1,ESPN
+http://161.0.157.8/PLTV/88888888/224/3221226881/03.m3u8
+#EXTINF:-1,ESPN HD NEW
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:-1,ESPN HD1
+http://80.80.160.168/live/6/2500000/live.m3u8
+#EXTINF:-1,ESPN HD2
+http://161.0.157.7/PLTV/88888888/224/3221226881/01.m3u8
+#EXTINF:-1,ESPN HD2
+http://161.0.157.7/PLTV/88888888/224/3221226881/02.m3u8
+#EXTINF:-1,ESPN HD2
+http://161.0.157.7/PLTV/88888888/224/3221226881/03.m3u8
+#EXTINF:-1,Trace sports
+http://61.216.177.73/sta/ch91865016.m3u8
+
+
