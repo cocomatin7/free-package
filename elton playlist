@@ -452,7 +452,7 @@ http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_FOCUS_UHD_1042_1000_64
 #EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_1780519567.png" group-title="STARTIMES",ST Swahili
 http://ms-azure-video.gslb.startimestv.com/live/ST_SWAHILI_854_500_480x360_191664/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_-2080553815.png" group-title="STARTIMES",ST World Football
-http://ms-azure-video.gslb.startimestv.com/live/ST_WORLD_FOOTBALL_HD_1020_1000_640x480_305754/playlist.m3u8
+http://ms-azure-video.gslb.startimestv.com/live/ST_WORLD_FOOTBALL_HD_996_300_320x240_210852/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_1802743986.png" group-title="STARTIMES",ST Sport Life
 http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_LIFE_UHD_1044_1000_640x480_306838/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2017/02/ST-Yoruba.png" group-title="STARTIMES",ST Yourba
