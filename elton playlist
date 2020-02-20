@@ -23,6 +23,10 @@ http://hls-pull-switchinternational.speedws.com/live/test1/playlist.m3u8
 #EXTINF:-1,STARTV E
 Https://8343f7014c0ea438.mediapackage.us-west-2.amazonaws.com/out/v1/790a5751da5e481a95c245b29c325e5f/index_1.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2014/12/AMCSlogo.jpg" group-title="enternainment",Africa Movie Channel Series
+https://1043645968.rsc.cdn77.org/1043645968/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2016/01/AMC.jpg" group-title="Naija",Africa Movie Channel
+https://1117758083.rsc.cdn77.org/1117758083/tracks-v1a1/mono.m3u8
 #EXTINF:-1,MBC 1
 http://livecdnh2.tvanywhere.ae/hls/mbc1/03.m3u8
 #EXTINF:-1,MBC 2
@@ -37,10 +41,8 @@ http://livecdnh3.tvanywhere.ae/hls/mbcmax/03.m3u8
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/03.m3u8
 #EXTINF:-1,MBC BOLLYWOOD
 http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/03.m3u8
-#EXTINF:-1,AMC MOVIES
-http://ms-azure-video.gslb.startimestv.com/live/AMC_MOVIES_990_250_320x240_210828/playlist.m3u8
-#EXTINF:-1,AMC SERIES
-http:/ms-azure-video.gslb.startimestv.com/live/AMC_Series_1070_500_480x360_424208/playlist.m3u8
+#EXTINF:-1,E ENTAIRNMENT
+http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.nation.co.ke/assets/ntv/kenya/ntv-ke-logo.png" group-title="Kenya",NTV Kenya
 https://1558183446.rsc.cdn77.org/1558183446/tracks-v1a1/mono.m3u8
@@ -236,7 +238,7 @@ https://delivery.macan.live/stream/macan_sport_15/index.m3u8?token=8zOOHzs7&v=20
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/HBO.cz.png" group-title="Movies",HBO
 https://www.doofree88.com/streaming/hd-hbo-th_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOHits.id.png" group-title="Movies",HBO Hits
+#EXTINF:-1 tvg-logo="https://stati#EXTINF:-1,ENTERAINMENT Ec.iptv-epg.com/id/HBOHits.id.png" group-title="Movies",HBO Hits
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits-avc1_2499968=10-HBOHits-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOSignature.id.png" group-title="Movies",HBO Signature
 https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
@@ -252,8 +254,6 @@ https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 https://streamer-1.toffeelive.com/live/sony_pix_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SonyMoviesChristmas.uk.png" group-title="Movies",Sony Movies
 http://51.52.156.22:8888/http/009
-#EXTINF:-1,ENTERAINMENT E
-http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
 #EXTINF:-1,FOX LIFE
 https://anevia115.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld-avc1_2499968=7-mp4a_98800_ind=2.m3u8
 #EXTINF:-1,AMC
