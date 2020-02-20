@@ -240,6 +240,15 @@ http://220.81.169.165:9981/stream/channelid/1196588199
 http://220.81.169.165:9981/stream/channelid/1946627401
 #EXTINF:-1,KBS N Sports
 http://220.81.169.165:9981/stream/channelid/989969894
+#EXTINF:-1,MBC SPORTS+
+http://220.81.169.165:9981/stream/channelid/1127217980
+EXTINF:-1,MBC
+http://220.81.169.165:9981/stream/channelid/1705109698
+#EXTINF:-1,O tvN
+http://122.40.0.42:9981/stream/channelid/2127801523
+
+
+
 
 
 
