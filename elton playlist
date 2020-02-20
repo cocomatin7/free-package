@@ -246,8 +246,16 @@ EXTINF:-1,MBC
 http://220.81.169.165:9981/stream/channelid/1705109698
 #EXTINF:-1,O tvN
 http://122.40.0.42:9981/stream/channelid/2127801523
-
-
+#EXTINF:-1,KBS1
+http://210.99.243.166:9981/stream/channelid/401010116
+#EXTINF:-1,KBS2
+http://210.99.243.166:9981/stream/channelid/937473019
+#EXTINF:-1,AXN
+http://122.40.0.42:9981/stream/channelid/1449843702
+#EXTINF:-1,FOX
+http://122.40.0.42:9981/stream/channelid/217076706
+#EXTINF:-1,KBS DRAMA
+http://122.40.0.42:9981/stream/channelid/1178621790
 
 
 
